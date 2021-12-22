@@ -154,7 +154,7 @@
    },
    "semanticHighlighting": true,
    "semanticTokenColors": {
-      "variable": "#cc4755",
+      "variable": "#F5E347",
       "variable.readonly": "#b52b47",
       "variable.private": "#cc4755cc",
       "variable.static": "#c33f36",
